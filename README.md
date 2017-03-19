@@ -6,3 +6,4 @@ List of Members:
 Ari Goodman
 Lucy Stuehrmann
 Christian Cedron
+Jacob Remz
