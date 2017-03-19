@@ -7,3 +7,4 @@ Ari Goodman
 Elsa Luthi
 Lucy Stuehrmann
 Christian Cedron
+Johnathan A'Vant
