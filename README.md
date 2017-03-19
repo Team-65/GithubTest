@@ -5,3 +5,5 @@ This project is the first github team practice test to make sure all members are
 List of Members:
 Ari Goodman
 Elsa Luthi
+Lucy Stuehrmann
+Christian Cedron
